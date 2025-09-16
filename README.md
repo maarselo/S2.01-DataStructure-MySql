@@ -15,9 +15,9 @@ At Level 1, also:
 - SQL script for inserting test data (insert.sql)
 - SQL script for running required queries (queries.sql)
 
-## 🧪 Level 1
+##  Level 1
 
-### Exercise 1 – Optics Store
+### Exercise 1 – Optics Store 👓
 Design a database model for the optics shop “Cul d’Ampolla”.
 The system should store information about:
 
@@ -30,7 +30,7 @@ Queries required:
 - List total invoices for a client in a given period.
 - List glasses models sold by an employee in a given year.
 - List suppliers that provided successfully sold glasses.
-### Exercise 2 – Pizzeria
+### Exercise 2 – Pizzeria 🍕
 Model a database for an online food delivery system.
 The system should store:
 - Clients (name, surname, address, location, province).
@@ -45,7 +45,7 @@ Queries required:
 - List how many orders were handled by a specific employee.
 
 ## ⚙️ Level 2
-### Exercise 1 – YouTube (Simplified)
+### Exercise 1 – YouTube (Simplified) 🎦
 Design a model for a simplified YouTube system.
 The database should store:
 - Users (email, password, username, birthdate, gender, country, postal code).
@@ -58,7 +58,7 @@ The database should store:
 - Comments (text, date).
 
 ## 📱 Level 3
-### Exercise 1 – Spotify (Simplified)
+### Exercise 1 – Spotify (Simplified) 🎵
 Model a simplified Spotify database.
 The system should store:
 - Users (free/premium).
