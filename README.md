@@ -106,8 +106,6 @@ The project runs locally on MySQL Workbench.
 
 ## 🤝 Contributions
 
-🤝 Contributions
-
 Suggestions to improve models are welcome.
 
 Additional queries or data sets can be proposed.
