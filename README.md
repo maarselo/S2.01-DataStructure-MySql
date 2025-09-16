@@ -86,7 +86,7 @@ Before running this project, make sure you have:
 Open MySQL Workbench
 
 1. Import the .der file if you want to view/modify the ER diagram
-2. Run the *_create.sql script to generate tables
+2. Run the *_structure.sql script to generate tables
 3. (Level 1) Run the *_insert.sql script to insert test data
 4. (Level 1) Run the *_queries.sql script to execute the required queries
 5. Verify results with MySQL Workbench
